@@ -4,6 +4,6 @@
 
 
 ## Screenshot
-![webpage screenshot](./src/assets/images/webpage-screenshot.png)
+![webpage screenshot](./src/assets/images/app-screenshot.png)
 
 ## Application Link
