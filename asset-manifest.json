@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/My-React-portfolio/static/css/main.f135b31c.chunk.css",
+    "main.js": "/My-React-portfolio/static/js/main.4883cd88.chunk.js",
+    "main.js.map": "/My-React-portfolio/static/js/main.4883cd88.chunk.js.map",
+    "runtime-main.js": "/My-React-portfolio/static/js/runtime-main.645d6d8b.js",
+    "runtime-main.js.map": "/My-React-portfolio/static/js/runtime-main.645d6d8b.js.map",
+    "static/js/2.af0d4b87.chunk.js": "/My-React-portfolio/static/js/2.af0d4b87.chunk.js",
+    "static/js/2.af0d4b87.chunk.js.map": "/My-React-portfolio/static/js/2.af0d4b87.chunk.js.map",
+    "static/js/3.c9e9ebb7.chunk.js": "/My-React-portfolio/static/js/3.c9e9ebb7.chunk.js",
+    "static/js/3.c9e9ebb7.chunk.js.map": "/My-React-portfolio/static/js/3.c9e9ebb7.chunk.js.map",
+    "index.html": "/My-React-portfolio/index.html",
+    "precache-manifest.35121052ae64ee1329d42463631dedad.js": "/My-React-portfolio/precache-manifest.35121052ae64ee1329d42463631dedad.js",
+    "service-worker.js": "/My-React-portfolio/service-worker.js",
+    "static/css/main.f135b31c.chunk.css.map": "/My-React-portfolio/static/css/main.f135b31c.chunk.css.map",
+    "static/js/2.af0d4b87.chunk.js.LICENSE.txt": "/My-React-portfolio/static/js/2.af0d4b87.chunk.js.LICENSE.txt",
+    "static/media/Luis_Retana_-_Software_Engineer (2).pdf": "/My-React-portfolio/static/media/Luis_Retana_-_Software_Engineer (2).ed038a5e.pdf",
+    "static/media/app-screenshot.png": "/My-React-portfolio/static/media/app-screenshot.c692d4ad.png",
+    "static/media/ecommerce.png": "/My-React-portfolio/static/media/ecommerce.b80d0049.png",
+    "static/media/project 1.PNG": "/My-React-portfolio/static/media/project 1.25b0cedc.PNG",
+    "static/media/quiz-screen-shot.png": "/My-React-portfolio/static/media/quiz-screen-shot.96f1e684.png",
+    "static/media/recent-photo.jpg": "/My-React-portfolio/static/media/recent-photo.8574eaa2.jpg",
+    "static/media/run buddy.PNG": "/My-React-portfolio/static/media/run buddy.35e52aa5.PNG",
+    "static/media/schedule.PNG": "/My-React-portfolio/static/media/schedule.54905e9b.PNG",
+    "static/media/screenshot-note-taker.png": "/My-React-portfolio/static/media/screenshot-note-taker.853da88d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.645d6d8b.js",
+    "static/js/2.af0d4b87.chunk.js",
+    "static/css/main.f135b31c.chunk.css",
+    "static/js/main.4883cd88.chunk.js"
+  ]
+}
