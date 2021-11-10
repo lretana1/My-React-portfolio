@@ -98,7 +98,7 @@ a:hover {
 }
 
 header {
-	background: var(--secondary);
+	background:rgb(37, 16, 112);
 	display: flex;
 	justify-content: space-between;
 	padding: 1rem;
