@@ -7,7 +7,7 @@ function Resume() {
 				<h1 className="page-header">My Resume</h1>
 			</div>
 			<div className="bottom-spacing">
-				<a href={require("../../assets/files/l.png")} download>
+				<a href={require("../../assets/files/Luis_Retana_-_Software_Engineer (2).pdf")} download>
 					<h4>Download my Resume</h4>
 				</a>
 			</div>
